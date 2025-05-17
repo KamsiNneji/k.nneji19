@@ -1,0 +1,23 @@
+body {
+    background-color: royalblue;
+    color: black;
+}
+
+header {
+    background-color: blue;
+    color: antiquewhite;
+    justify-content: center;
+}
+
+button {
+    background-color: blue;
+    border: 1px solid navy;
+    padding: 20px;
+    font-size: 1.4rem;
+}
+
+button:hover {
+    background-color: antiquewhite;
+    border: blue;
+    color: blue;
+}
